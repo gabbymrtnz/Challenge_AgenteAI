@@ -1,0 +1,92 @@
+﻿Nro_Factura,Fecha_Venta,ID_Cliente,Nombre_Cliente,Categoria,Producto_Menu,Cantidad,Precio_Unitario_USD,Monto_Total_USD,Forma_Pago,Estado_Pago,Monto_Cargado_A_Credito_USD,Limite_Credito_Cliente_USD,Saldo_Credito_Acumulado_USD,Credito_Disponible_USD,Estado_Credito_Cliente
+FAC-AREPA-8018,2026-07-01,CLI-105,Luis Fernando Martínez,Arepas Individuales,Arepa Pollo,5,1.8,9.0,Efectivo,Pagado Contado,0.0,100.0,32.42,67.58,Excelente
+FAC-AREPA-8022,2026-07-01,CLI-106,Laura Sofía López,Panes Individuales,Pan Pollo,5,1.65,8.25,Crédito,Pendiente,8.25,150.0,59.98,90.02,Excelente
+FAC-AREPA-8076,2026-07-01,CLI-125,Adriana Paola Reyes,Panes Individuales,Pan Salchicha,5,1.4,7.0,Crédito,Vencido,7.0,100.0,43.18,56.82,Excelente
+FAC-AREPA-8056,2026-07-03,CLI-118,Alejandro José Romero,Combos Arepas,Arepa de carne (Combo),4,4.0,16.0,Transferencia,Pagado Contado,0.0,30.0,7.35,22.65,Excelente
+FAC-AREPA-8048,2026-07-04,CLI-116,Javier Ignacio Aguilar,Bebidas,Refresco pequeño,3,0.97,2.91,Pago Móvil,Pagado Contado,0.0,200.0,45.95,154.05,Excelente
+FAC-AREPA-8051,2026-07-04,CLI-117,Verónica Beatriz Silva,Arepas Individuales,Arepa Huevo,2,1.65,3.3,Efectivo,Pagado Contado,0.0,30.0,9.09,20.91,Excelente
+FAC-AREPA-8032,2026-07-05,CLI-110,Claudia Marcela Ramírez,Bebidas,Batido Grande,5,2.6,13.0,Pago Móvil,Pagado Contado,0.0,30.0,18.92,11.08,Al Límite
+FAC-AREPA-8070,2026-07-05,CLI-122,Gonzalo Javier Peña,Bebidas,Jugo,3,1.5,4.5,Transferencia,Pagado Contado,0.0,80.0,4.69,75.31,Excelente
+FAC-AREPA-8010,2026-07-05,CLI-102,María Elena Gómez,Bebidas,Agua,5,1.0,5.0,Crédito,Vencido,5.0,150.0,60.08,89.92,Excelente
+FAC-AREPA-8086,2026-07-06,CLI-128,Francisco Javier Serrano,Bebidas,Agua,4,1.0,4.0,Pago Móvil,Pagado Contado,0.0,150.0,53.46,96.54,Excelente
+FAC-AREPA-8017,2026-07-07,CLI-104,Ana Lucía Fernández,Arepas Individuales,Arepa Huevo,2,1.65,3.3,Crédito,Pendiente,3.3,150.0,43.43,106.57,Excelente
+FAC-AREPA-8035,2026-07-07,CLI-111,Roberto Carlos Morales,Bebidas,Agua,2,1.0,2.0,Efectivo,Pagado Contado,0.0,30.0,6.22,23.78,Excelente
+FAC-AREPA-8068,2026-07-07,CLI-121,Sonia Cristina Guerrero,Bebidas,Batido Mediano,1,2.2,2.2,Efectivo,Pagado Contado,0.0,200.0,77.38,122.62,Excelente
+FAC-AREPA-8082,2026-07-08,CLI-127,Valeria Nicole Ortiz,Bebidas,Jugo,2,1.5,3.0,Crédito,Pagado Parcial,3.0,30.0,8.97,21.03,Excelente
+FAC-AREPA-8058,2026-07-08,CLI-118,Alejandro José Romero,Combos Arepas,Arepa de carne (Combo),3,4.0,12.0,Efectivo,Pagado Contado,0.0,30.0,7.35,22.65,Excelente
+FAC-AREPA-8045,2026-07-08,CLI-115,Daniela Alejandra Mendoza,Combos Arepas,Arepa de carne (Combo),1,4.0,4.0,Crédito,Pagado Parcial,4.0,80.0,30.54,49.46,Excelente
+FAC-AREPA-8054,2026-07-09,CLI-117,Verónica Beatriz Silva,Bebidas,Batido Grande,1,2.6,2.6,Transferencia,Pagado Contado,0.0,30.0,9.09,20.91,Excelente
+FAC-AREPA-8042,2026-07-09,CLI-113,Gabriela Isabel Castro,Arepas Individuales,Arepa Pollo,4,1.8,7.2,Crédito,Pagado Parcial,7.2,80.0,17.09,62.91,Excelente
+FAC-AREPA-8009,2026-07-10,CLI-102,María Elena Gómez,Panes Individuales,Pan Salchicha,1,1.4,1.4,Efectivo,Pagado Contado,0.0,150.0,55.08,94.92,Excelente
+FAC-AREPA-8066,2026-07-10,CLI-121,Sonia Cristina Guerrero,Combos Panes,Pan de carne (Combo),3,3.6,10.8,Crédito,Pagado Parcial,10.8,200.0,77.38,122.62,Excelente
+FAC-AREPA-8031,2026-07-11,CLI-110,Claudia Marcela Ramírez,Combos Panes,Pan de carne (Combo),4,3.6,14.4,Crédito,Pendiente,14.4,30.0,18.92,11.08,Al Límite
+FAC-AREPA-8084,2026-07-11,CLI-127,Valeria Nicole Ortiz,Combos Panes,Pan huevo (Combo),3,2.6,7.8,Transferencia,Pagado Contado,0.0,30.0,8.97,21.03,Excelente
+FAC-AREPA-8011,2026-07-12,CLI-102,María Elena Gómez,Combos Panes,Pan huevo (Combo),3,2.6,7.8,Crédito,Vencido,7.8,150.0,67.88,82.12,Excelente
+FAC-AREPA-8063,2026-07-12,CLI-121,Sonia Cristina Guerrero,Bebidas,Jugo,3,1.5,4.5,Crédito,Pagado Parcial,4.5,200.0,64.65,135.35,Excelente
+FAC-AREPA-8072,2026-07-13,CLI-124,Hugo Mauricio Blanco,Arepas Individuales,Arepa Jamón,2,1.65,3.3,Crédito,Pendiente,3.3,100.0,23.08,76.92,Excelente
+FAC-AREPA-8041,2026-07-13,CLI-112,Andrés Felipe Herrera,Panes Individuales,Pan Huevo,2,1.4,2.8,Transferencia,Pagado Contado,0.0,200.0,44.32,155.68,Excelente
+FAC-AREPA-8057,2026-07-14,CLI-118,Alejandro José Romero,Combos Arepas,Arepa de carne (Combo),1,4.0,4.0,Efectivo,Pagado Contado,0.0,30.0,7.35,22.65,Excelente
+FAC-AREPA-8033,2026-07-14,CLI-110,Claudia Marcela Ramírez,Bebidas,Refresco pequeño,3,0.97,2.91,Crédito,Pendiente,2.91,30.0,21.83,8.17,Al Límite
+FAC-AREPA-8046,2026-07-14,CLI-115,Daniela Alejandra Mendoza,Bebidas,Batido Mediano,2,2.2,4.4,Efectivo,Pagado Contado,0.0,80.0,30.54,49.46,Excelente
+FAC-AREPA-8025,2026-07-14,CLI-107,Diego Armando Sánchez,Combos Panes,Pan de jamón (Combo),2,2.6,5.2,Transferencia,Pagado Contado,0.0,100.0,31.29,68.71,Excelente
+FAC-AREPA-8071,2026-07-14,CLI-123,Natalia Carolina Molina,Bebidas,Batido Grande,2,2.6,5.2,Transferencia,Pagado Contado,0.0,200.0,35.82,164.18,Excelente
+FAC-AREPA-8040,2026-07-14,CLI-112,Andrés Felipe Herrera,Bebidas,Batido Mediano,4,2.2,8.8,Efectivo,Pagado Contado,0.0,200.0,44.32,155.68,Excelente
+FAC-AREPA-8015,2026-07-15,CLI-103,Carlos Alberto Rodríguez,Combos Panes,Pan de jamón (Combo),4,2.6,10.4,Crédito,Pendiente,10.4,30.0,25.38,4.62,Al Límite
+FAC-AREPA-8043,2026-07-15,CLI-113,Gabriela Isabel Castro,Combos Panes,Pan de jamón (Combo),3,2.6,7.8,Crédito,Vencido,7.8,80.0,24.89,55.11,Excelente
+FAC-AREPA-8085,2026-07-15,CLI-127,Valeria Nicole Ortiz,Bebidas,Agua,4,1.0,4.0,Crédito,Pagado Parcial,4.0,30.0,12.97,17.03,Excelente
+FAC-AREPA-8037,2026-07-16,CLI-112,Andrés Felipe Herrera,Combos Arepas,Arepa de carne (Combo),2,4.0,8.0,Pago Móvil,Pagado Contado,0.0,200.0,44.32,155.68,Excelente
+FAC-AREPA-8087,2026-07-16,CLI-128,Francisco Javier Serrano,Combos Arepas,Arepa de carne (Combo),3,4.0,12.0,Crédito,Pendiente,12.0,150.0,65.46,84.54,Excelente
+FAC-AREPA-8004,2026-07-16,CLI-101,Juan Carlos Pérez,Combos Panes,Pan de pollo (Combo),4,3.1,12.4,Pago Móvil,Pagado Contado,0.0,30.0,6.35,23.65,Excelente
+FAC-AREPA-8044,2026-07-17,CLI-114,Ricardo Antonio Vargas,Bebidas,Jugo,3,1.5,4.5,Efectivo,Pagado Contado,0.0,80.0,13.73,66.27,Excelente
+FAC-AREPA-8027,2026-07-17,CLI-107,Diego Armando Sánchez,Combos Panes,Pan huevo (Combo),4,2.6,10.4,Efectivo,Pagado Contado,0.0,100.0,31.29,68.71,Excelente
+FAC-AREPA-8080,2026-07-17,CLI-127,Valeria Nicole Ortiz,Panes Individuales,Pan Pollo,1,1.65,1.65,Efectivo,Pagado Contado,0.0,30.0,5.97,24.03,Excelente
+FAC-AREPA-8030,2026-07-17,CLI-109,Jorge Eduardo Torres,Arepas Individuales,Arepa Carne,3,2.1,6.3,Transferencia,Pagado Contado,0.0,30.0,7.95,22.05,Excelente
+FAC-AREPA-8026,2026-07-17,CLI-107,Diego Armando Sánchez,Arepas Individuales,Arepa Huevo,4,1.65,6.6,Pago Móvil,Pagado Contado,0.0,100.0,31.29,68.71,Excelente
+FAC-AREPA-8089,2026-07-18,CLI-130,Miguel Ángel Benítez,Panes Individuales,Pan Salchicha,2,1.4,2.8,Efectivo,Pagado Contado,0.0,80.0,27.65,52.35,Excelente
+FAC-AREPA-8036,2026-07-18,CLI-112,Andrés Felipe Herrera,Combos Arepas,Arepa de pollo (Combo),4,3.5,14.0,Pago Móvil,Pagado Contado,0.0,200.0,44.32,155.68,Excelente
+FAC-AREPA-8023,2026-07-18,CLI-106,Laura Sofía López,Panes Individuales,Pan Jamón y Queso,4,1.4,5.6,Pago Móvil,Pagado Contado,0.0,150.0,59.98,90.02,Excelente
+FAC-AREPA-8050,2026-07-18,CLI-117,Verónica Beatriz Silva,Combos Panes,Pan de pollo (Combo),1,3.1,3.1,Transferencia,Pagado Contado,0.0,30.0,9.09,20.91,Excelente
+FAC-AREPA-8002,2026-07-19,CLI-101,Juan Carlos Pérez,Panes Individuales,Pan Jamón y Queso,2,1.4,2.8,Efectivo,Pagado Contado,0.0,30.0,4.85,25.15,Excelente
+FAC-AREPA-8049,2026-07-19,CLI-116,Javier Ignacio Aguilar,Panes Individuales,Pan Huevo,5,1.4,7.0,Transferencia,Pagado Contado,0.0,200.0,45.95,154.05,Excelente
+FAC-AREPA-8067,2026-07-19,CLI-121,Sonia Cristina Guerrero,Combos Arepas,Arepa de carne (Combo),5,4.0,20.0,Transferencia,Pagado Contado,0.0,200.0,77.38,122.62,Excelente
+FAC-AREPA-8069,2026-07-20,CLI-122,Gonzalo Javier Peña,Combos Panes,Pan de carne (Combo),1,3.6,3.6,Efectivo,Pagado Contado,0.0,80.0,4.69,75.31,Excelente
+FAC-AREPA-8062,2026-07-20,CLI-120,Esteban Manuel Delgado,Arepas Individuales,Arepa Pollo,4,1.8,7.2,Efectivo,Pagado Contado,0.0,50.0,17.84,32.16,Excelente
+FAC-AREPA-8020,2026-07-20,CLI-106,Laura Sofía López,Combos Arepas,Arepa de pollo (Combo),5,3.5,17.5,Transferencia,Pagado Contado,0.0,150.0,51.73,98.27,Excelente
+FAC-AREPA-8016,2026-07-21,CLI-103,Carlos Alberto Rodríguez,Panes Individuales,Pan Salchicha,4,1.4,5.6,Transferencia,Pagado Contado,0.0,30.0,25.38,4.62,Al Límite
+FAC-AREPA-8088,2026-07-21,CLI-129,Sonia Isabel Marin,Combos Panes,Pan de jamón (Combo),1,2.6,2.6,Transferencia,Pagado Contado,0.0,100.0,37.09,62.91,Excelente
+FAC-AREPA-8081,2026-07-21,CLI-127,Valeria Nicole Ortiz,Panes Individuales,Pan Jamón y Queso,4,1.4,5.6,Efectivo,Pagado Contado,0.0,30.0,5.97,24.03,Excelente
+FAC-AREPA-8053,2026-07-21,CLI-117,Verónica Beatriz Silva,Bebidas,Agua,1,1.0,1.0,Transferencia,Pagado Contado,0.0,30.0,9.09,20.91,Excelente
+FAC-AREPA-8079,2026-07-21,CLI-126,Oscar Emilio Morales,Bebidas,Jugo,3,1.5,4.5,Transferencia,Pagado Contado,0.0,150.0,33.67,116.33,Excelente
+FAC-AREPA-8007,2026-07-22,CLI-102,María Elena Gómez,Panes Individuales,Pan Huevo,5,1.4,7.0,Crédito,Pendiente,7.0,150.0,55.08,94.92,Excelente
+FAC-AREPA-8074,2026-07-22,CLI-124,Hugo Mauricio Blanco,Bebidas,Batido Mediano,5,2.2,11.0,Crédito,Pendiente,11.0,100.0,34.08,65.92,Excelente
+FAC-AREPA-8059,2026-07-22,CLI-119,Camila Valentina Navarro,Bebidas,Batido Mediano,5,2.2,11.0,Transferencia,Pagado Contado,0.0,80.0,12.05,67.95,Excelente
+FAC-AREPA-8052,2026-07-22,CLI-117,Verónica Beatriz Silva,Combos Arepas,Arepa de pollo (Combo),3,3.5,10.5,Pago Móvil,Pagado Contado,0.0,30.0,9.09,20.91,Excelente
+FAC-AREPA-8021,2026-07-22,CLI-106,Laura Sofía López,Bebidas,Agua,3,1.0,3.0,Pago Móvil,Pagado Contado,0.0,150.0,51.73,98.27,Excelente
+FAC-AREPA-8034,2026-07-22,CLI-110,Claudia Marcela Ramírez,Combos Arepas,Arepa de jamón (Combo),5,3.1,15.5,Crédito,Pendiente,15.5,30.0,37.33,0.0,Riesgo de Sobregiro
+FAC-AREPA-8039,2026-07-22,CLI-112,Andrés Felipe Herrera,Combos Panes,Pan de jamón (Combo),4,2.6,10.4,Transferencia,Pagado Contado,0.0,200.0,44.32,155.68,Excelente
+FAC-AREPA-8012,2026-07-25,CLI-103,Carlos Alberto Rodríguez,Arepas Individuales,Arepa Carne,4,2.1,8.4,Efectivo,Pagado Contado,0.0,30.0,10.78,19.22,Excelente
+FAC-AREPA-8060,2026-07-25,CLI-120,Esteban Manuel Delgado,Arepas Individuales,Arepa Pollo,5,1.8,9.0,Efectivo,Pagado Contado,0.0,50.0,17.84,32.16,Excelente
+FAC-AREPA-8073,2026-07-25,CLI-124,Hugo Mauricio Blanco,Combos Panes,Pan de pollo (Combo),2,3.1,6.2,Efectivo,Pagado Contado,0.0,100.0,23.08,76.92,Excelente
+FAC-AREPA-8008,2026-07-26,CLI-102,María Elena Gómez,Arepas Individuales,Arepa Jamón,4,1.65,6.6,Pago Móvil,Pagado Contado,0.0,150.0,55.08,94.92,Excelente
+FAC-AREPA-8019,2026-07-26,CLI-106,Laura Sofía López,Combos Panes,Pan huevo (Combo),2,2.6,5.2,Efectivo,Pagado Contado,0.0,150.0,51.73,98.27,Excelente
+FAC-AREPA-8038,2026-07-26,CLI-112,Andrés Felipe Herrera,Bebidas,Jugo,2,1.5,3.0,Pago Móvil,Pagado Contado,0.0,200.0,44.32,155.68,Excelente
+FAC-AREPA-8078,2026-07-27,CLI-126,Oscar Emilio Morales,Combos Panes,Pan de jamón (Combo),5,2.6,13.0,Efectivo,Pagado Contado,0.0,150.0,33.67,116.33,Excelente
+FAC-AREPA-8013,2026-07-27,CLI-103,Carlos Alberto Rodríguez,Panes Individuales,Pan Huevo,3,1.4,4.2,Crédito,Pendiente,4.2,30.0,14.98,15.02,Excelente
+FAC-AREPA-8029,2026-07-27,CLI-108,Patricia Elizabeth Díaz,Panes Individuales,Pan Carne,3,1.93,5.79,Efectivo,Pagado Contado,0.0,150.0,30.66,119.34,Excelente
+FAC-AREPA-8091,2026-07-28,CLI-130,Miguel Ángel Benítez,Bebidas,Batido Grande,3,2.6,7.8,Efectivo,Pagado Contado,0.0,80.0,27.65,52.35,Excelente
+FAC-AREPA-8047,2026-07-28,CLI-116,Javier Ignacio Aguilar,Combos Panes,Pan de jamón (Combo),3,2.6,7.8,Pago Móvil,Pagado Contado,0.0,200.0,45.95,154.05,Excelente
+FAC-AREPA-8005,2026-07-28,CLI-101,Juan Carlos Pérez,Combos Panes,Pan de carne (Combo),4,3.6,14.4,Crédito,Pendiente,14.4,30.0,20.75,9.25,Al Límite
+FAC-AREPA-8065,2026-07-29,CLI-121,Sonia Cristina Guerrero,Combos Arepas,Arepa de carne (Combo),3,4.0,12.0,Transferencia,Pagado Contado,0.0,200.0,66.58,133.42,Excelente
+FAC-AREPA-8090,2026-07-29,CLI-130,Miguel Ángel Benítez,Combos Arepas,Arepa de carne (Combo),5,4.0,20.0,Pago Móvil,Pagado Contado,0.0,80.0,27.65,52.35,Excelente
+FAC-AREPA-8024,2026-07-29,CLI-107,Diego Armando Sánchez,Bebidas,Jugo,3,1.5,4.5,Efectivo,Pagado Contado,0.0,100.0,31.29,68.71,Excelente
+FAC-AREPA-8075,2026-07-29,CLI-124,Hugo Mauricio Blanco,Panes Individuales,Pan Salchicha,2,1.4,2.8,Pago Móvil,Pagado Contado,0.0,100.0,34.08,65.92,Excelente
+FAC-AREPA-8061,2026-07-30,CLI-120,Esteban Manuel Delgado,Arepas Individuales,Arepa Jamón,3,1.65,4.95,Pago Móvil,Pagado Contado,0.0,50.0,17.84,32.16,Excelente
+FAC-AREPA-8055,2026-07-30,CLI-117,Verónica Beatriz Silva,Panes Individuales,Pan Pollo,2,1.65,3.3,Transferencia,Pagado Contado,0.0,30.0,9.09,20.91,Excelente
+FAC-AREPA-8014,2026-07-30,CLI-103,Carlos Alberto Rodríguez,Combos Panes,Pan de carne (Combo),4,3.6,14.4,Transferencia,Pagado Contado,0.0,30.0,14.98,15.02,Excelente
+FAC-AREPA-8006,2026-07-30,CLI-102,María Elena Gómez,Bebidas,Batido Mediano,3,2.2,6.6,Crédito,Pendiente,6.6,150.0,48.08,101.92,Excelente
+FAC-AREPA-8001,2026-07-30,CLI-101,Juan Carlos Pérez,Arepas Individuales,Arepa Carne,5,2.1,10.5,Efectivo,Pagado Contado,0.0,30.0,4.85,25.15,Excelente
+FAC-AREPA-8077,2026-07-31,CLI-126,Oscar Emilio Morales,Panes Individuales,Pan Pollo,2,1.65,3.3,Efectivo,Pagado Contado,0.0,150.0,33.67,116.33,Excelente
+FAC-AREPA-8064,2026-07-31,CLI-121,Sonia Cristina Guerrero,Panes Individuales,Pan Carne,1,1.93,1.93,Crédito,Pendiente,1.93,200.0,66.58,133.42,Excelente
+FAC-AREPA-8083,2026-07-31,CLI-127,Valeria Nicole Ortiz,Panes Individuales,Pan Jamón y Queso,5,1.4,7.0,Transferencia,Pagado Contado,0.0,30.0,8.97,21.03,Excelente
+FAC-AREPA-8028,2026-07-31,CLI-107,Diego Armando Sánchez,Combos Panes,Pan de carne (Combo),4,3.6,14.4,Efectivo,Pagado Contado,0.0,100.0,31.29,68.71,Excelente
+FAC-AREPA-8003,2026-07-31,CLI-101,Juan Carlos Pérez,Bebidas,Jugo,1,1.5,1.5,Crédito,Pendiente,1.5,30.0,6.35,23.65,Excelente
