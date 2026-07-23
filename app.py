@@ -10,7 +10,7 @@ import os
 load_dotenv()
 
 st.set_page_config(
-    page_title="Análisis de CSV con IA",
+    page_title="Analisis de finanzas (COPITO DE NIEVE).",
     page_icon="📊",
     layout="wide",
 )
