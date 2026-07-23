@@ -23,7 +23,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("📊 Análisis de CSV con IA")
+st.title("📊 Análisis de Finanzas con IA (Copito de nieve)")
 st.caption("Sube un archivo CSV, explora sus gráficos y haz preguntas en lenguaje natural.")
 st.divider()
 
